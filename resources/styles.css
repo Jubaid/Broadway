@@ -2,19 +2,69 @@ body {
   text-align: center;
 }
 
- .title, .first-heading {
+.title {
+  background: url(/Users/fatema/Documents/broadway/resources/images/the-flatiron-building.png)
+}
+
+.title, .first-heading {
   font-family: Helvetica;
   font-size:  70px;
   font-weight: bold;
   color: white;
 }
 
-.title {
-  background: url(/Users/fatema/Documents/broadway/resources/images/the-flatiron-building.png)
-}
-
 .title, nav {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
+}
+
+.process, h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.Identify, h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.middle, h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.middle, h4 {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.Design {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.end {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background: url(/Users/fatema/Documents/broadway/resources/images/the-flatiron-building.png)
+}
+
+.Design h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+}
+
+.footer, footer {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  display: inline;
 }
