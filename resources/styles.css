@@ -60,11 +60,11 @@ body {
   font-size: 23px;
 }
 
-.footer, footer {
+.footer, h5 {
   font-family: Helvetica;
   font-size: 11px;
   color: white;
   background-color: dimgray;
   text-align: left;
-  display: inline;
+  background: url(/Users/fatema/Documents/broadway/resources/images/the-flatiron-building.png);
 }
